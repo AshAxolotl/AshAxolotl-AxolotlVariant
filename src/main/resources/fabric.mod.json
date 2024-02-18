@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "ashaxolotl-axolotlvariant",
+	"version": "1.0.0}",
+	"name": "AshAxolotl Axolotl",
+	"description": "Adds a new Axolotl based on my skin",
+	"authors": [
+		"AshAxolotl"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/ashaxolotl-axolotlvariant/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "ashaxolotl.ashaxolotlaxolotlvariant.AshAxolotlAxolotlVariantMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"mavapi": ">=1.1.3"
+	}
+}
