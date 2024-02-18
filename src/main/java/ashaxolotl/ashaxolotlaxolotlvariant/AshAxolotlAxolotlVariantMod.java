@@ -15,5 +15,3 @@ public class AshAxolotlAxolotlVariantMod implements ModInitializer {
 		ModVariants.register();
 	}
 }
-
-// /summon minecraft:axolotl ~ ~ ~ {Variant:"ashaxolotl-axolotlvariant:ash"}
