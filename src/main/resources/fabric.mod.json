@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "ashaxolotl-axolotlvariant",
-	"version": "1.0.0}",
+	"version": "1.0.0-1.19.2",
 	"name": "AshAxolotl Axolotl",
 	"description": "Adds a new Axolotl based on my skin",
 	"authors": [
@@ -17,9 +17,8 @@
 	},
 	"depends": {
 		"fabricloader": ">=0.14.21",
-		"minecraft": "~1.20.1",
+		"minecraft": "~1.19.2",
 		"java": ">=17",
-		"fabric-api": "*",
-		"mavapi": ">=1.1.3"
+		"mavapi": ">=1.1.1"
 	}
 }

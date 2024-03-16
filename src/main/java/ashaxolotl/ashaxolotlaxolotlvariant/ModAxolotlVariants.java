@@ -5,7 +5,7 @@ import net.minecraft.world.entity.animal.axolotl.Axolotl;
 import java.util.Locale;
 
 public enum ModAxolotlVariants {
-    ASH(false);
+    ASH(true);
 
     private final String name;
     private final boolean natural;
