@@ -1,6 +1,8 @@
 # AshAxolotl Axolotl Variant
-### depends on [fabric](https://fabricmc.net/) and [mavapi](https://modrinth.com/mod/mavapi)
+### This mod was _maid_ as a joke and I dont recommend installing it
+![axolotl in water](https://github.com/AshAxolotl/AshAxolotl-AxolotlVariant/blob/master/preview.png?raw=true)
 
-![axolotl in water](preview.png)
-
-spawn using /summon minecraft:axolotl ~ ~ ~ {Variant:"ashaxolotl-axolotlvariant:ash"}
+### depends on [mavapi](https://modrinth.com/mod/mavapi)
+```
+/summon minecraft:axolotl ~ ~ ~ {Variant:"ashaxolotl-axolotlvariant:ash"}
+```
